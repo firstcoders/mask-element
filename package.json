@@ -14,7 +14,7 @@
   },
   "repository": {
     "type": "git",
-    "url": "https://github.com/sound-ws/mark-element.git"
+    "url": "https://github.com/sound-ws/mask-element.git"
   },
   "exports": {
     ".": "./index.js",
